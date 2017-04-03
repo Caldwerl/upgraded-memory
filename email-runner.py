@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# bash profile command
+# alias sendt='cd ~/Development/timesheet; python email-runner.py; cd ~'
+
 import smtplib
 
 import email
