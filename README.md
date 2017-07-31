@@ -16,3 +16,5 @@ http://uxmovement.com/forms/why-users-fill-out-forms-faster-with-unified-text-fi
 https://www.cxpartners.co.uk/our-thinking/web_forms_design_guidelines_an_eyetracking_study/
 
 https://www.nngroup.com/articles/web-form-design/
+
+https://reacttraining.com/react-router/web/example/basic
