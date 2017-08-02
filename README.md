@@ -20,3 +20,5 @@ https://www.nngroup.com/articles/web-form-design/
 https://reacttraining.com/react-router/web/example/basic
 
 https://iamakulov.com/notes/npm-malicious-packages/
+
+https://medium.com/@taodong/how-i-do-developer-ux-at-google-b21646c2c4df
