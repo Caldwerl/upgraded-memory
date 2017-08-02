@@ -18,3 +18,5 @@ https://www.cxpartners.co.uk/our-thinking/web_forms_design_guidelines_an_eyetrac
 https://www.nngroup.com/articles/web-form-design/
 
 https://reacttraining.com/react-router/web/example/basic
+
+https://iamakulov.com/notes/npm-malicious-packages/
