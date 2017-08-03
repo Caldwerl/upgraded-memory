@@ -19,6 +19,14 @@ https://www.nngroup.com/articles/web-form-design/
 
 https://reacttraining.com/react-router/web/example/basic
 
+https://tylermcginnis.com/react-aha-moments/
+
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+https://medium.freecodecamp.org/the-revolution-of-pure-views-aed339db7da4
+
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
 https://iamakulov.com/notes/npm-malicious-packages/
 
 https://medium.com/@taodong/how-i-do-developer-ux-at-google-b21646c2c4df
