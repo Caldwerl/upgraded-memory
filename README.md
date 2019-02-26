@@ -33,6 +33,14 @@ https://medium.com/@taodong/how-i-do-developer-ux-at-google-b21646c2c4df
 
 https://medium.com/@narendrashetty/bubble-animation-with-react-native-72674eab073a
 
+https://www.nngroup.com/articles/flat-design-best-practices/
+
+https://www.nngroup.com/articles/clickable-elements/
+
+https://anaxi.com/blog/2018/11/25/do-not-measure-developers-measure-projects/
+
+
+
 
 
 
