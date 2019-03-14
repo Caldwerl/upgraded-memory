@@ -1,16 +1,17 @@
 # upgraded-memory
 
-Books
-The Mythical Man Month
-Peopleware
-The Pragmatic Programmer
-Eloquent JavaScript
-The Principles of Product Development Flow
-
 Storing bash profile and sublime color themes and good links
 
 npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
 
+## Books
+* The Mythical Man Month
+* Peopleware
+* The Pragmatic Programmer
+* Eloquent JavaScript
+* The Principles of Product Development Flow
+
+## Articles
 https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 
 https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet
