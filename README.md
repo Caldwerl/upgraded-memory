@@ -1,4 +1,12 @@
 # upgraded-memory
+
+Books
+The Mythical Man Month
+Peopleware
+The Pragmatic Programmer
+Eloquent JavaScript
+The Principles of Product Development Flow
+
 Storing bash profile and sublime color themes and good links
 
 npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
@@ -38,6 +46,8 @@ https://www.nngroup.com/articles/flat-design-best-practices/
 https://www.nngroup.com/articles/clickable-elements/
 
 https://anaxi.com/blog/2018/11/25/do-not-measure-developers-measure-projects/
+
+https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a
 
 
 
