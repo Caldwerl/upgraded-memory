@@ -10,6 +10,8 @@ npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-rea
 * The Pragmatic Programmer
 * Eloquent JavaScript
 * The Principles of Product Development Flow
+* Leaders Eat Last: Why Some Teams Pull Together and Others Don't 
+* Start with Why: How Great Leaders Inspire Everyone to Take Action 
 
 ## Articles
 https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
