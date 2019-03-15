@@ -143,7 +143,7 @@ Edit: Oh. Forgot about this. The other Friday afternoon every fortnight we would
 * Who do you work with on a daily basis / describe the day to day role
 * How are decisions made / how will [team] be asked to accomplish things / who makes those decisions
 * What are the company's primary values? what characteristics are you looking for in a candidate in relation to those primary values?
-* What would be expected of me for the first / three / six months? What will success look like in this position, how will it be * measured?
+* What would be expected of me for the first / three / six months? What will success look like in this position, how will it be measured?
 * What sort of training/mentoring/career dev things are here
 * What's the most impressive thing you've seen out of someone else you've interviewed recently
 * What do you see as the most challenging aspect of this job?
