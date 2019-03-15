@@ -104,7 +104,7 @@ S3 > Bucket > Permissions > CORS Configuration
 
 
 
-Create Meeting Checklist Requirements
+## Create Meeting Checklist Requirements
 
 0. Before anything, come up with a written agenda and goals for the communication. Don’t move past this step until done.
 
@@ -124,13 +124,30 @@ Create Meeting Checklist Requirements
 
 8. If not, is there a time slot that works for most people?
 
-
-
-
-
+## Heads down days
 At a startup I worked at previously we introduced head-space and heads-down days.
 Head space was an experiment where every fortnight, at Friday noon it was tools down and do what ever you want. You were encouraged to go away from the office. Ride your bike, have lunch with your wife/husband or family. What ever you thought was giving you head space.
 Heads down days were every Tuesday and Thursday of every week. This meant, on those days no meetings. Work from where ever you want. Turn off Slack. Close your email client. The idea here is "planned" uninterrupted time so you get into the zone for a long stretch of time.
 Edit: Oh. Forgot about this. The other Friday afternoon every fortnight we would do "refactor" afternoon. It's were the dev team would come together and refactor parts of the code base as a team. You would get to see parts of the code you'd normally never work on and some really great discussions came out of that.
+
+## Interview Questions
+* How long have each of you worked at this company?
+* What's your deployment process like?
+* Do you have bouts of "crunch time?"
+* Tell me about the last person who had this job
+* Tell me about a typical workweek
+* When was your last vacation?
+* What did my predecessor do that was above and beyond?
+* What is a bad day here like?
+* What's your approach to testing?
+* Who do you work with on a daily basis / describe the day to day role
+* How are decisions made / how will [team] be asked to accomplish things / who makes those decisions
+* What are the company's primary values? what characteristics are you looking for in a candidate in relation to those primary values?
+* What would be expected of me for the first / three / six months? What will success look like in this position, how will it be * measured?
+* What sort of training/mentoring/career dev things are here
+* What's the most impressive thing you've seen out of someone else you've interviewed recently
+* What do you see as the most challenging aspect of this job?
+* How do you set milestones/deliverables for projects and how does your team react when it's clear they won't be met
+* When was the last time you took pto / how much did you take / what did you do
 
 
