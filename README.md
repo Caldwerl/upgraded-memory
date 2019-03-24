@@ -52,7 +52,7 @@ https://anaxi.com/blog/2018/11/25/do-not-measure-developers-measure-projects/
 
 https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a
 
-
+https://www.javascriptcookbook.com/article/traversing-dom-subtrees-with-a-recursive-walk-the-dom-function/
 
 
 
