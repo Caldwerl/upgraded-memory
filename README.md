@@ -54,7 +54,7 @@ https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c
 
 https://www.javascriptcookbook.com/article/traversing-dom-subtrees-with-a-recursive-walk-the-dom-function/
 
-
+https://opensource.com/article/19/3/career-advice-engineer
 
 
 FFMPEG
