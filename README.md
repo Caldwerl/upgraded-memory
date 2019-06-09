@@ -56,6 +56,7 @@ https://www.javascriptcookbook.com/article/traversing-dom-subtrees-with-a-recurs
 
 https://opensource.com/article/19/3/career-advice-engineer
 
+https://martinfowler.com/articles/is-quality-worth-cost.html
 
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
