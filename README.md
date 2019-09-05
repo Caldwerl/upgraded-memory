@@ -58,6 +58,10 @@ https://opensource.com/article/19/3/career-advice-engineer
 
 https://martinfowler.com/articles/is-quality-worth-cost.html
 
+https://about.gitlab.com/company/culture/all-remote/
+
+https://about.gitlab.com/handbook/
+
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
 ffmpeg -i input.gif -c vp9 -b:v 0 -crf 41 output.webm
