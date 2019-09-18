@@ -64,6 +64,8 @@ https://about.gitlab.com/handbook/
 
 https://google.github.io/eng-practices/review/reviewer/
 
+http://www.paulgraham.com/makersschedule.html
+
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
 ffmpeg -i input.gif -c vp9 -b:v 0 -crf 41 output.webm
