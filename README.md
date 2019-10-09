@@ -68,7 +68,8 @@ http://www.paulgraham.com/makersschedule.html
 
 https://martinfowler.com/articles/practical-test-pyramid.html
 
-
+Principles of Technology Leadership | Bryan Cantrill | Monktoberfest 2017
+https://www.youtube.com/watch?v=9QMGAtxUlAc
 
 
 FFMPEG
