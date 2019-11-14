@@ -165,4 +165,7 @@ Edit: Oh. Forgot about this. The other Friday afternoon every fortnight we would
 * How do you set milestones/deliverables for projects and how does your team react when it's clear they won't be met
 * When was the last time you took pto / how much did you take / what did you do
 
-
+## Pull Request Comment Template
+* "Please do not check in commented out code." on the files and then request changes with "Please clean up files before submitting a PR. I will look at the functionality after it is cleaned up."
+* "This change is out of scope for the PR and the story you reference, please create a separate PR for this." And simply return it marked "request changes".
+* "You change the functionality of the public API of the class/system, but not change any tests. This means that either the tests were not properly covering the code to begin with or you add functionality without adding any tests. In either case, please add tests on the unit/system/integration level to cover your functionality."
