@@ -71,6 +71,9 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 Principles of Technology Leadership | Bryan Cantrill | Monktoberfest 2017
 https://www.youtube.com/watch?v=9QMGAtxUlAc
 
+First 90 Days as CTO or VP of ENG
+https://lethain.com/first-ninety-days-cto-vpe/?utm_source=X-Team+Weekly&utm_campaign=e6e076fb76-EMAIL_CAMPAIGN_2020_01_22_03_47&utm_medium=email&utm_term=0_7c0f96aa52-e6e076fb76-337066885
+
 
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
