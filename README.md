@@ -76,6 +76,8 @@ https://lethain.com/first-ninety-days-cto-vpe/?utm_source=X-Team+Weekly&utm_camp
 
 https://ryxcommar.com/2020/01/27/what-makes-a-interview-homework-assignment-good-or-bad/
 
+https://developers.google.com/tech-writing
+
 
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
