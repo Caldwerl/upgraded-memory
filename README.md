@@ -182,3 +182,27 @@ Edit: Oh. Forgot about this. The other Friday afternoon every fortnight we would
 * "Please do not check in commented out code." on the files and then request changes with "Please clean up files before submitting a PR. I will look at the functionality after it is cleaned up."
 * "This change is out of scope for the PR and the story you reference, please create a separate PR for this." And simply return it marked "request changes".
 * "You change the functionality of the public API of the class/system, but not change any tests. This means that either the tests were not properly covering the code to begin with or you add functionality without adding any tests. In either case, please add tests on the unit/system/integration level to cover your functionality."
+
+
+## CorsairVBusDriver.sys Win10 crash
+I figured I'd write out the instructions (with the extras from above and what I found out) to hopefully make it slightly less stressful if someone encounters this in the future.
+
+You don't need a Windows Installation medium, you can perform this by using the recovery command prompt (see booting to safemode, but select command prompt instead of "Startup Settings")
+Getting into the Recovery Screen (see above)
+Click "See more advanced recovery options"
+Click troubleshoot
+Click advanced options
+Click command prompt
+Once you're in cmd, you'll need to mount your Windows System Partition (as this is not automatically mounted)
+Run diskpart
+Type list disk, you'll see some output with some disks (starting at 0) with sizes. Usually your System drive will be Drive 0. You can make a good guess by the drive size.
+Type select disk x, where x is your system drive from the results from step 2.
+Type list part to see a list of partitions. A normal Win 10 install will have 4 partitions: 1 - Recovery, 2 - System, 3 - Reserved, and 4 - Primary. If you don't find a primary partition, change disk (step 3) and repeat until you find your system partition.
+Type select part x, where x is your primary system partition (will be the biggest partition from step 4).
+Type assign letter=Z, to assign your primary partition a drive letter (Z).
+Exit diskpart
+Remove the dodgy driver using dism
+Run dism /Image:Z: /Get-Drivers | more to display a list of installed drivers. When I did this, it opened up the driver list in notepad. Use Ctrl-F to find the driver you're looking for and note down the Published Name (should be oemxx.inf).
+Run dism /Image:Z: /Remove-Driver /Driver:oemxxx.inf where the oemxxx.inf is the published name from step 1.
+Exit CMD, reboot and cross your fingers!
+Notes: my Windows version was 1903 and my version of CorsairVBusDriver.sys was from 2015.
