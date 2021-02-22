@@ -78,6 +78,9 @@ https://ryxcommar.com/2020/01/27/what-makes-a-interview-homework-assignment-good
 
 https://developers.google.com/tech-writing
 
+https://uxdesign.cc/feature-prioritization-a089fd0af08 Feature Prioritization
+
+https://bootcamp.uxdesign.cc/color-psychology-in-ux-b371fde795d3
 
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
