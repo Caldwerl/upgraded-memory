@@ -84,6 +84,8 @@ https://uxdesign.cc/feature-prioritization-a089fd0af08 Feature Prioritization
 
 https://bootcamp.uxdesign.cc/color-psychology-in-ux-b371fde795d3
 
+http://www.lizengland.com/blog/2014/04/the-door-problem/
+
 FFMPEG
 ffmpeg -i input.gif -profile:v high444 -level 4.0 -b:v 0 -crf 25 -pix_fmt yuv420p output.mp4
 ffmpeg -i input.gif -c vp9 -b:v 0 -crf 41 output.webm
