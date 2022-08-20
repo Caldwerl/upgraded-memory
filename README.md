@@ -2,6 +2,8 @@
 
 Storing bash profile and sublime color themes and good links
 
+https://www.ankursheel.com/blog/securing-git-commits-windows
+
 npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
 
 ## Books
